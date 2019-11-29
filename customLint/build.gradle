@@ -15,3 +15,5 @@ jar {
         attributes("Lint-Registry-v2": "com.elyeproj.customlint.MyIssueRegistry")
     }
 }
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.monikachouhan-galaxyweblinks'

@@ -47,4 +47,3 @@ tasks.whenTaskAdded { task ->
         task.mustRunAfter lint
     }
 }
-apply plugin: 'com.github.dcendents.android-maven'
